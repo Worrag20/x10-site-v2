@@ -4,7 +4,8 @@ export default function Home() {
   return (
     <main className="min-h-screen bg-white text-black">
       {/* HERO */}
-      <section className="relative h-[55vh] w-full">
+      <section className="relative h-[78vh] md:h-[55vh] w-full">
+
       <Image
   src="/x10-hero.webp"
   alt="X10 After School Sports"
@@ -13,8 +14,10 @@ export default function Home() {
   className="object-cover"
   priority
 />
-        <div className="absolute inset-0 bg-black/50 flex items-center justify-center">
-          <div className="text-center text-white px-6">
+<div className="absolute inset-0 bg-black/65 md:bg-black/50 flex items-center justify-center">
+
+         <div className="text-center text-white px-6 pt-10 pb-6">
+
             <Image
   src="/x10-logo.png"
   alt="X10 After-School Sports logo"
