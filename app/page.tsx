@@ -5,13 +5,14 @@ export default function Home() {
     <main className="min-h-screen bg-white text-black">
       {/* HERO */}
       <section className="relative h-[70vh] w-full">
-        <Image
-          src="/x10-hero.webp"
-          alt="X10 After School Sports"
-          fill
-          className="object-cover"
-          priority
-        />
+      <Image
+  src="/x10-hero.webp"
+  alt="X10 After School Sports"
+  fill
+  sizes="100vw"
+  className="object-cover"
+  priority
+/>
         <div className="absolute inset-0 bg-black/50 flex items-center justify-center">
           <div className="text-center text-white px-6">
             <h1 className="text-4xl md:text-6xl font-bold mb-4">
