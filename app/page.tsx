@@ -15,6 +15,15 @@ export default function Home() {
 />
         <div className="absolute inset-0 bg-black/50 flex items-center justify-center">
           <div className="text-center text-white px-6">
+            <Image
+  src="/x10-logo.png"
+  alt="X10 After-School Sports logo"
+  width={160}
+  height={160}
+  className="mx-auto mb-6"
+  priority
+/>
+
             <h1 className="text-4xl md:text-6xl font-bold mb-4">
               X10 After-School Sports
             </h1>
