@@ -11,7 +11,8 @@ export default function Home() {
   alt="X10 After School Lacrosse"
   fill
   sizes="100vw"
-  className="object-cover"
+  className="object-cover blur-sm"
+
   priority
 />
 <div className="absolute inset-0 bg-black/65 md:bg-black/50 flex items-center justify-center">
