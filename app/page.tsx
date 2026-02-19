@@ -8,7 +8,7 @@ export default function Home() {
 
       <Image
   src="/x10-hero.webp"
-  alt="X10 After School Sports"
+  alt="X10 After School Lacrosse"
   fill
   sizes="100vw"
   className="object-cover"
