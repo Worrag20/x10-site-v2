@@ -28,7 +28,7 @@ export default function Home() {
 />
 
             <h1 className="text-4xl md:text-6xl font-bold mb-3">
-              X10 After-School Lacrosse
+              After-School Lacrosse
             </h1>
             <p className="text-lg md:text-2xl max-w-2xl mx-auto">
   Building confident, active athletes through fun, structured
