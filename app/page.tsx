@@ -18,6 +18,11 @@ export default function Home() {
             <h1 className="text-4xl md:text-6xl font-bold mb-4">
               X10 After-School Sports
             </h1>
+            <p className="text-lg md:text-2xl max-w-2xl mx-auto">
+  Building confident, active athletes through fun, structured
+  after-school programs.
+</p>
+
 <div className="mt-8 flex justify-center gap-4">
   <a
     href="#programs"
