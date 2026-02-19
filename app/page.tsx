@@ -19,7 +19,7 @@ export default function Home() {
          <div className="text-center text-white px-6 pt-6 md:pt-10 pb-6">
 
             <Image
-  src="/x10-logo.png"
+  src="/x10-logo1.png"
   alt="X10 After-School Sports logo"
   width={320}
   height={320}
