@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <main className="min-h-screen bg-white text-black">
       {/* HERO */}
-      <section className="relative h-[78vh] md:h-[55vh] w-full">
+      <section className="relative h-[78vh] md:h-[50vh] w-full">
 
       <Image
   src="/x10-hero.webp"
