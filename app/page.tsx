@@ -18,8 +18,8 @@ export default function Home() {
             <Image
   src="/x10-logo.png"
   alt="X10 After-School Sports logo"
-  width={160}
-  height={160}
+  width={320}
+  height={320}
   className="mx-auto mb-6"
   priority
 />
