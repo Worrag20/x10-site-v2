@@ -23,7 +23,7 @@ export default function Home() {
   alt="X10 After-School Sports logo"
   width={320}
   height={320}
-  className="mx-auto mb-3"
+  className="mx-auto mb-2"
   priority
 />
 
